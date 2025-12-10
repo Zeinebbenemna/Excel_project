@@ -51,7 +51,6 @@ The second phase extends the analysis to a longitudinal dataset covering 20 year
   - average national ARC,
   - average rural ARC,
   - average urban ARC.
-- Built a visualization comparing national ARC, rural ARC, population size, and region to uncover regional patterns.
 
 ---
 
